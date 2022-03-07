@@ -28,7 +28,7 @@ public class FXMLController {
     		
     		for(int i = 0;i<password.length();i++)
     		{
-    			
+    			//secondo commit
     			char c = password.charAt(i);
     			
     			
